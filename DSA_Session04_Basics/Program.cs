@@ -24,6 +24,7 @@ using System.Diagnostics;
         {
             Console.WriteLine("khong the chia cho 0");
         }
+        //bai 3
         int x=5,y=10;
         Console.WriteLine($"gia tri cua x truoc khi swap: {x}");
         Console.WriteLine($"gia tri cua y truoc khi swap: {y}");
